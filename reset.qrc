@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>metanol.jpg</file>
+        <file>girl.jpg</file>
+    </qresource>
+</RCC>
