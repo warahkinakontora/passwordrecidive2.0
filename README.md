@@ -62,3 +62,5 @@ MIT — делай что хочешь, но если сломаешь — не 
 
 update new;
 Теперь вы можете именно звпегестрироваться а не входить самостоятельно, а так же добавилась расшифровка паролей.
+<img width="416" height="546" alt="image" src="https://github.com/user-attachments/assets/b9e10dbc-b767-4770-8fce-98e0e1a11d7d" />
+
