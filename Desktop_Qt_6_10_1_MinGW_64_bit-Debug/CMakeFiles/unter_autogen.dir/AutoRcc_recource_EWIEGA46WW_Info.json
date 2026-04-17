@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "D:/qtproject/unter/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unter_autogen",
+	"CMAKE_BINARY_DIR" : "D:/qtproject/unter/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/qtproject/unter/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/qtproject/unter",
+	"CMAKE_SOURCE_DIR" : "D:/qtproject/unter",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/qtproject/unter/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unter_autogen/include",
+	"INPUTS" : [ "D:/qtproject/unter/Fakt.jpg" ],
+	"LOCK_FILE" : "D:/qtproject/unter/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/unter_autogen.dir/AutoRcc_recource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "recource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_recource.cpp",
+	"RCC_EXECUTABLE" : "D:/CIM/6.10.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/qtproject/unter/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/unter_autogen.dir/AutoRcc_recource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/qtproject/unter/recource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

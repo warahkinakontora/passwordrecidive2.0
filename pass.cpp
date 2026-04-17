@@ -4,6 +4,7 @@
 #include <QString>
 #include "zxc.h"
 #include <QDebug>
+#include "gats.h"
 
 pass::pass(QWidget *parent) :
     QWidget(parent),

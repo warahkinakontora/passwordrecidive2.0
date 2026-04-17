@@ -1,8 +1,10 @@
 #include "sort.h"
 #include "ui_sort.h"
+#include <QString>
 #include <QMessageBox>
 #include <QFile>
 #include "pass.h"
+#include "gats.h"
 
 sort::sort(QWidget *parent)
     : QWidget(parent)
@@ -47,9 +49,5 @@ void sort::on_pushButton_clicked()
         veck->show();
 
         this->close();
-    } else {
-        QMessageBox::critical(this, "Ошибка", "Не удалось сохранить данные. Проверь права на запись.");
     }
 }
-
-
